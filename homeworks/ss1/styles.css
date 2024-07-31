@@ -1,0 +1,15 @@
+header{
+    background-color: blue;
+    color: black;
+    font-size: 40px;
+}
+div{
+    background-color: brown;
+    color: blue;
+    font-size: 40px;
+}
+footer{
+    background-color:black ;
+    color: aliceblue;
+    font-size: 30px;
+}
